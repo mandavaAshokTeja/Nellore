@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-21T14:26:31 IST" name="Default suite" finished-at="2022-03-21T14:31:48 IST" duration-ms="317005">
+    <groups>
+    </groups>
+    <test started-at="2022-03-21T14:26:31 IST" name="Default test" finished-at="2022-03-21T14:31:48 IST" duration-ms="317005">
+      <class name="Nlr.Mychoice">
+        <test-method is-config="true" signature="init()[pri:0, instance:Nlr.Mychoice@53976f5c]" started-at="2022-03-21T14:26:31 IST" name="init" finished-at="2022-03-21T14:30:56 IST" duration-ms="264971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="login()[pri:0, instance:Nlr.Mychoice@53976f5c]" started-at="2022-03-21T14:30:56 IST" name="login" finished-at="2022-03-21T14:31:38 IST" duration-ms="42053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Nlr.Mychoice@53976f5c]" started-at="2022-03-21T14:31:38 IST" name="quit" finished-at="2022-03-21T14:31:48 IST" duration-ms="9948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Nlr.Mychoice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
